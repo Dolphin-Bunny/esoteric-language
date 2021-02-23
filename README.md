@@ -1,5 +1,5 @@
 # esoteric-language
-An esoteric programming language I made. 
+An esoteric programming language I made. <br>
 It has 9 commands you can use:
 0 = nothing<br>
 1 = jump to pointer if pointer is 0<br>
